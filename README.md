@@ -1,10 +1,9 @@
-# A jekyll-powered port of [Obtvse](https://github.com/natew/obtvse)
-================================
+# [Obtvse](https://github.com/natew/obtvse) for Jekyll
+--------------------------------
 
-This is a quick and dirty port of Obtvse to Jeykll. Please help me fix things!
+This is a quick and dirty version of Obtvse to Jeykll. Please help me fix things!
 
 ### Setup
---------------------------------
 For the links to work, you'll need to change the variables at the top of the default.html layout to whatever you want them to be. (If you leave them blank, they won't appear.)
 They are:
 name: yourname
@@ -22,5 +21,4 @@ Posts only need two variables: "layout" (which should probably always be "post",
 ...that's about it. Wasn't that easy?
 
 ### License
----------------------------------
 This software is licensed under the MIT-License, as is Obtvse.
