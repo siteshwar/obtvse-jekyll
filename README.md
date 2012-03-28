@@ -20,3 +20,7 @@ I'm sure there's a better way to do this, but I don't have very much experience 
 Posts only need two variables: "layout" (which should probably always be "post", unless you want to create a new one), and "title".
 
 ...that's about it. Wasn't that easy?
+
+### License
+---------------------------------
+This software is licensed under the MIT-License, as is Obtvse.
